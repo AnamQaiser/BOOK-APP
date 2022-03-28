@@ -16,7 +16,7 @@
         tools:layout_editor_absoluteY="624dp" />
 
     <EditText
-        android:id="@+id/editTextTextPersonName27"
+        android:id="@+id/editTextTextalphabets27"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:ems="10"
