@@ -7,7 +7,7 @@
     tools:context=".page25">
 
     <EditText
-        android:id="@+id/editTextTextPersonName28"
+        android:id="@+id/editTextTextalphabets28"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:ems="10"
