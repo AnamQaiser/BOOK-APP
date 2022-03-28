@@ -12,7 +12,7 @@ class page3 : AppCompatActivity() {
         setContentView(R.layout.activity_page3)
     }
     fun sendMessage(view: View) {
-        val editText = findViewById<EditText>(R.id.editTextTextPersonName)
+        val editText = findViewById<EditText>(R.id.editTextTextalphabets)
         val message = editText.text.toString()
         val intent = Intent(this, DisplayMessageActivity::class.java).apply {
             putExtra(EXTRA_MESSAGE, message)
